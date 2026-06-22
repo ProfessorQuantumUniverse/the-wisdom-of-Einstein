@@ -1,3 +1,14 @@
+> ## 📦 This project has moved
+>
+> **The Wisdom of Einstein** is now part of the **[toolsperiments](https://github.com/ProfessorQuantumUniverse/toolsperiments)** collection.
+>
+> - 🌐 **Live demo:** https://professorquantumuniverse.github.io/toolsperiments/einstein-wisdom/
+> - 📂 **Source:** https://github.com/ProfessorQuantumUniverse/toolsperiments/tree/main/einstein-wisdom
+>
+> This repository is **archived** and no longer maintained here.
+
+---
+
 # Die Weisheit Einsteins | The Wisdom of Einstein
 
 Eine moderne, immersive Web-App, die Albert Einstein und andere große Wissenschaftler ehrt.
